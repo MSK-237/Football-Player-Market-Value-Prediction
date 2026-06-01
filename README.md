@@ -49,7 +49,6 @@ The following preprocessing steps were performed:
 |---------|---------:|
 | Linear Regression | 0.32 |
 | Random Forest Regressor | 0.59 |
-| XGBoost Regressor | 0.48 |
 
 ### After Log Transformation
 
@@ -57,7 +56,7 @@ The following preprocessing steps were performed:
 |---------|---------:|
 | Linear Regression | 0.37 |
 | Random Forest Regressor | 0.60 |
-| XGBoost Regressor | 0.51 |
+| XGBoost Regressor | 0.48 |
 
 Random Forest Regressor achieved the best performance and was selected as the final model.
 
